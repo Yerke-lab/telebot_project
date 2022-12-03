@@ -19,7 +19,7 @@ logging.critical("A message of CRITICAL severity")
 @bot.message_handler(commands=['start'])
 def start(message):
     bot.send_message(
-        message.chat.id, f'Hello, *{message.from_user.first_name}!*\nYou need enter:\n1) /calculator if you need calculator\n2)/help to call help\nTo bring up the main menu, enter /main')
+        message.chat.id, f'Hello, *{message.from_user.first_name}!*\nYou need enter:\n1) /calculator if you need calculator\n2)/help to call help\n3)To bring up the main menu, enter /main')
 
 @bot.message_handler(commands=['calculator'])
 def getMessage(message):
