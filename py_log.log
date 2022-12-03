@@ -1,0 +1,53 @@
+2022-12-03 20:05:40,932 INFO An INFO
+2022-12-03 20:05:40,932 WARNING A WARNING
+2022-12-03 20:05:40,932 ERROR An ERROR
+2022-12-03 20:05:40,932 CRITICAL A message of CRITICAL severity
+2022-12-03 20:06:08,947 INFO The data == =
+2022-12-03 20:06:08,975 ERROR Error!
+Traceback (most recent call last):
+  File "c:\Users\HOME\Documents\»“ –¿«–¿¡Œ“ ¿ Œ¡”◊≈Õ»≈\PYTHON\Zadacha 2_bot calculator\bot2.py", line 81, in callback_func
+    value = str( eval(value) )
+  File "<string>", line 0
+    
+SyntaxError: invalid syntax
+2022-12-03 20:06:20,559 INFO The data == =
+2022-12-03 20:06:20,560 ERROR Error!
+Traceback (most recent call last):
+  File "c:\Users\HOME\Documents\»“ –¿«–¿¡Œ“ ¿ Œ¡”◊≈Õ»≈\PYTHON\Zadacha 2_bot calculator\bot2.py", line 81, in callback_func
+    value = str( eval(value) )
+  File "<string>", line 1, in <module>
+ZeroDivisionError: division by zero
+2022-12-03 20:06:27,638 INFO The data == =
+2022-12-03 20:06:27,639 INFO The value result: 2.
+2022-12-03 20:07:23,841 INFO The data == =
+2022-12-03 20:07:23,841 INFO The value result: 0.
+2022-12-03 20:07:27,884 INFO The data == =
+2022-12-03 20:07:27,884 INFO The value result: 0.
+2022-12-03 20:07:29,720 INFO The data == =
+2022-12-03 20:07:29,720 INFO The value result: 0.
+2022-12-03 20:07:30,614 INFO The data == =
+2022-12-03 20:07:30,614 INFO The value result: 0.
+2022-12-03 20:07:34,420 INFO The data == =
+2022-12-03 20:07:34,435 ERROR Error!
+Traceback (most recent call last):
+  File "c:\Users\HOME\Documents\»“ –¿«–¿¡Œ“ ¿ Œ¡”◊≈Õ»≈\PYTHON\Zadacha 2_bot calculator\bot2.py", line 81, in callback_func
+    value = str( eval(value) )
+  File "<string>", line 1
+    073
+    ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+2022-12-03 20:07:35,188 INFO The data == =
+2022-12-03 20:07:35,188 ERROR Error!
+Traceback (most recent call last):
+  File "c:\Users\HOME\Documents\»“ –¿«–¿¡Œ“ ¿ Œ¡”◊≈Õ»≈\PYTHON\Zadacha 2_bot calculator\bot2.py", line 81, in callback_func
+    value = str( eval(value) )
+  File "<string>", line 0
+    
+SyntaxError: invalid syntax
+2022-12-03 20:07:44,628 INFO The data == =
+2022-12-03 20:07:44,628 ERROR Error!
+Traceback (most recent call last):
+  File "c:\Users\HOME\Documents\»“ –¿«–¿¡Œ“ ¿ Œ¡”◊≈Õ»≈\PYTHON\Zadacha 2_bot calculator\bot2.py", line 81, in callback_func
+    value = str( eval(value) )
+  File "<string>", line 1, in <module>
+ZeroDivisionError: division by zero
