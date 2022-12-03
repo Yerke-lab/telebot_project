@@ -4,6 +4,9 @@ import logging
 
 bot = telebot.TeleBot(config.Calc_bot_token)
 
+py_logger = logging.getLogger(__name__)
+py_logger.setLevel(logging.INFO)
+
 logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w",
                     format="%(asctime)s %(levelname)s %(message)s")
 logging.debug("A DEBUG Message")
